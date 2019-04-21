@@ -1,2 +1,3 @@
-# kader
-Image upload
+# Qosts app
+backend & fronend
+Image & file upload by django
